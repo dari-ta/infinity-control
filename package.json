@@ -1,0 +1,11 @@
+{
+	"name": "infinity-control",
+	"main": "index.html",
+	"title": "infinity ControlPanel",
+	"window": {
+		"width": 900,
+		"height": 530,
+		"toolbar": false,
+		"resizable": false
+	}
+}
